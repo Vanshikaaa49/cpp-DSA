@@ -1,2 +1,2 @@
 # cpp-DSA
-Grinding DSA in cpp,one problem at a time,leveling up my logic and coding game.
+Grinding DSA in cpp,one problem at a time,leveraging my logic and coding game.
